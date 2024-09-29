@@ -1,5 +1,5 @@
 # Documentacion de María
-## bootcamp de inteligencia artificial
+## Bootcamp de Inteligencia Artificial
 
 En este bootcamp de inteligencia artificial, he aprendido: 
 * Git
