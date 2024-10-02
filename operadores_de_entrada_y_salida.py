@@ -3,3 +3,6 @@ print(nombre)
 print(type(nombre))
 edad = int(input ("¿cuál es tu edad?:"))
 print(type(edad)) #El resultado de input siempre será string
+
+
+print(suma, resta, multiplicacion, division, potenciacion, division_entera) 
